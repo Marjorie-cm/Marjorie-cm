@@ -1,7 +1,11 @@
 
 <div align="center">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Animación de programación](https://giphy.com/gifs/programmer-designer-company-mascot-jagoanhosting-hostingmurah-domain-domainmurah-26vACLXgansDXwHzzI)"/>
+ <div align="center">
+  <img src="https://giphy.com/gifs/scaler-official-cat-cats-coding-k0ijJhqrUP4T2EvmJ1"
+       width="300"
+       alt="GIF animado"/>
+</div>
 
   <h1>¡Hola! 👋 Soy Marjorie Sarango</h1>
 
