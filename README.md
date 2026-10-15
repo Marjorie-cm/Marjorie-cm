@@ -1,11 +1,13 @@
 
 <div align="center">
 
- <div align="center">
-  <img src="https://giphy.com/gifs/scaler-official-cat-cats-coding-k0ijJhqrUP4T2EvmJ1"
+ 
+<div align="center">
+  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif"
        width="300"
-       alt="GIF animado"/>
+       alt="Gatito programando">
 </div>
+
 
   <h1>¡Hola! 👋 Soy Marjorie Sarango</h1>
 
